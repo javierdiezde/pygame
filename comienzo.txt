@@ -1,0 +1,8 @@
+﻿Módulos instalados
+	pygame
+	pytmx (para leer los archivos hechos con tmx)
+		tmx: Tipo de archivo realizado con el programa rpgmaker 
+		rpgmaker: programa para diseñar mapas de los juegos, entre otras cosas. Trabaja en Javascript.
+	pyscroll: lee los archivos tmx y permite que los objetos funcionen por casillas.
+	wheel: instalador de programas desde DOS
+	
